@@ -8,7 +8,7 @@ En este repositorio muestro una selección de trabajos y una prueba representati
 
 ## Proyectos / Evidencias
 
-- **Make Wallet:** Billetera Virtual → [Repositorio en GitHub](https://github.com/Magikine/AkeWallet2.1.git)  
+- **Make Wallet:** Billetera Virtual → [Repositorio en GitHub](https://github.com/Magikine/AlkeWallet2.1.git) 
   Elaboración de una billetera virtual con características y seguridad específicas por docente, con identificación de usuario, encriptación de contraseñas, mensajes de errores, etc.
 
 - **Prueba seleccionada:** [Prueba de Redes](# Portafolio de Marjorie Andrea Moya Elgueta
@@ -21,7 +21,7 @@ En este repositorio muestro una selección de trabajos y una prueba representati
 
 ## Proyectos / Evidencias
 
-- **Make Wallet:** Billetera Virtual → [Repositorio en GitHub](https://github.com/Magikine/AkeWallet2.1.git)  
+- **Make Wallet:** Billetera Virtual → [Repositorio en GitHub](https://github.com/Magikine/AlkeWallet2.1.git) 
   Elaboración de una billetera virtual con características y seguridad específicas por docente, con identificación de usuario, encriptación de contraseñas, mensajes de errores, etc.
 
 - **Prueba seleccionada:** [Prueba de Redes](https://github.com/Magikine/MI-PORTAFOLIO.git)  
